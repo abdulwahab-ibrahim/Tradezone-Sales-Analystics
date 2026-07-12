@@ -83,14 +83,9 @@ The dashboard includes:
 TradeZone-Sales-Analytics
 │
 ├── Dashboard
-│   ├── TradeZone_Dashboard.pbix
 │   └── Dashboard.png
 │
-├── Database
-│   └── TradeZone_Databae.sql
-│
 ├── Dataset
-│   ├── customers.csv
 │   ├── orders.csv
 │   ├── order_items.csv
 │   ├── payments.csv
@@ -116,6 +111,16 @@ TradeZone-Sales-Analytics
 - Business Intelligence
 - Data Visualization
 - Interactive Reporting
+
+---
+
+---
+
+## 🔒 Data Availability
+
+The dataset used in this project was provided during the HNG Internship. To respect data privacy and data-sharing considerations, the raw dataset, database dump, and Power BI (.pbix) file are not included in this repository.
+
+This repository demonstrates the SQL analysis, dashboard design, DAX measures, methodology, and key business insights developed during the project.
 
 ---
 
