@@ -1,0 +1,91 @@
+seller_id,seller_name,onboarding_date,product_category,city,state,account_status
+SELL018,ReadMore NG,2023-04-08,Home and Garden,Port Harcourt,Rivers,Active
+SELL014,HomeEssentials NG,2022-03-09,Sports and Fitness,Kano,Kano,Active
+SELL019,ActiveWear NG,2024-04-26,Sports and Fitness,Lagos,Lagos,Active
+SELL007,BookWorld Nigeria,2022-02-05,Sports and Fitness,Ibadan,Oyo,Active
+SELL002,FashionVault NG,2023-02-04,Food and Beverages,Port Harcourt,Rivers,Active
+SELL086,KnowledgeHub NG,2023-03-04,Food and Beverages,Lagos,Lagos,Active
+SELL006,FoodBasket NG,2023-01-12,Food and Beverages,Lagos,Lagos,Active
+SELL005,SportsPro Nigeria,2023-05-02,Beauty and Personal Care,Lagos,Lagos,Active
+SELL043,HomePlus NG,2022-04-29,Beauty and Personal Care,Kano,Kano,Active
+SELL060,AllFashion NG,2023-05-03,Beauty and Personal Care,Abuja,FCT,Active
+SELL074,TrendHub NG,2023-11-05,Beauty and Personal Care,Abuja,FCT,Active
+SELL084,GlowBar NG,2023-06-10,Beauty and Personal Care,Abuja,FCT,Active
+SELL008,QuickTech NG,2022-11-13,Beauty and Personal Care,Lagos,Lagos,Active
+SELL010,NaturalGlow NG,2022-09-19,Beauty and Personal Care,Ibadan,Oyo,Active
+SELL004,GlowBeauty Shop,2023-08-27,Books and Stationery,Abuja,FCT,Active
+SELL013,KidsWorld NG,2022-12-07,Books and Stationery,Kano,Kano,Active
+SELL015,GadgetKing NG,2022-02-23,Books and Stationery,Kano,Kano,Active
+SELL020,TasteOfNigeria,2022-07-06,Home and Garden,Lagos,Lagos,Active
+SELL029,GardenPlus NG,2022-08-30,Home and Garden,Lagos,Lagos,Active
+SELL033,EcoHome NG,2023-04-28,Fashion,Lagos,Lagos,Active
+SELL050,SportsGear NG,2024-05-07,Electronics,Lagos,Lagos,Active
+SELL063,PureSkin NG,2023-05-23,Fashion,Kano,Kano,Active
+SELL068,EarthHome NG,2024-02-27,Electronics,Lagos,Lagos,Active
+SELL076,SportNation NG,2022-01-15,Fashion,Lagos,Lagos,Active
+SELL012,FreshFarm NG,2024-04-22,Electronics,Lagos,Lagos,Active
+SELL017,OrganicLife NG,2022-06-11,Electronics,Abuja,FCT,Active
+SELL021,SmartGadgets NG,2023-07-26,Electronics,Lagos,Lagos,Active
+SELL037,EduBooks NG,2022-11-17,Electronics,Lagos,Lagos,Suspended
+SELL052,TechZone NG,2023-11-03,Electronics,Lagos,Lagos,Active
+SELL064,Naija Grains,2024-03-31,Electronics,Abuja,FCT,Active
+SELL011,FitLife Nigeria,2023-03-26,Fashion,Lagos,Lagos,Active
+SELL016,TrendyFash,2022-01-04,Fashion,Port Harcourt,Rivers,Active
+SELL022,UrbanStyle NG,2022-09-26,Fashion,Ibadan,Oyo,Active
+SELL040,AfricanFoods NG,2022-11-20,Fashion,Abuja,FCT,Active
+SELL042,StreetStyle NG,2022-07-07,Fashion,Lagos,Lagos,Suspended
+SELL046,LocalFarm NG,2024-05-04,Fashion,Port Harcourt,Rivers,Active
+SELL048,MaxGadget NG,2023-03-03,Fashion,Port Harcourt,Rivers,Active
+SELL069,SweatZone NG,2024-03-16,Fashion,Kano,Kano,Active
+SELL023,CleanHome NG,2023-09-07,Beauty and Personal Care,Abuja,FCT,Active
+SELL030,WellnessHub NG,2023-04-15,Food and Beverages,Abuja,FCT,Active
+SELL073,SmartShop NG,2023-02-09,Electronics,Abuja,FCT,Active
+SELL003,GreenHome Stores,2022-06-29,Electronics,Lagos,Lagos,Active
+SELL080,UltraTech NG,2024-01-27,Fashion,Lagos,Lagos,Active
+SELL001,TechHub Nigeria,2023-09-07,Fashion,Port Harcourt,Rivers,Active
+SELL026,HealthyEats NG,2024-03-11,Books and Stationery,Ibadan,Oyo,Active
+SELL032,ChicStyle NG,2022-03-16,Home and Garden,Kano,Kano,Active
+SELL036,NaijaSnacks NG,2023-04-25,Home and Garden,Abuja,FCT,Active
+SELL039,LuxeBeauty NG,2023-09-20,Home and Garden,Ibadan,Oyo,Active
+SELL027,TechStore NG,2022-07-31,Books and Stationery,Lagos,Lagos,Active
+SELL049,VogueNG,2022-01-27,Home and Garden,Kano,Kano,Active
+SELL054,GreenSpace NG,2022-11-27,Home and Garden,Port Harcourt,Rivers,Active
+SELL059,TechPower NG,2023-11-13,Home and Garden,Kano,Kano,Active
+SELL065,BrightMinds NG,2024-05-11,Home and Garden,Kano,Kano,Active
+SELL024,SportsCentral NG,2022-05-01,Sports and Fitness,Lagos,Lagos,Suspended
+SELL034,RunFast NG,2023-01-26,Sports and Fitness,Lagos,Lagos,Active
+SELL035,SkincareNG,2022-02-12,Sports and Fitness,Lagos,Lagos,Active
+SELL047,LearnMore NG,2022-08-06,Sports and Fitness,Port Harcourt,Rivers,Active
+SELL062,ActiveLife NG,2022-12-16,Sports and Fitness,Lagos,Lagos,Active
+SELL066,GadgetPro NG,2022-03-20,Sports and Fitness,Abuja,FCT,Active
+SELL075,LivingPlus NG,2023-01-05,Sports and Fitness,Kano,Kano,Active
+SELL085,HarvestPlus NG,2022-01-20,Sports and Fitness,Kano,Kano,Active
+SELL031,ElectroMart NG,2023-02-12,Food and Beverages,Port Harcourt,Rivers,Active
+SELL041,DigiTech NG,2023-10-14,Food and Beverages,Abuja,FCT,Active
+SELL044,FitnessFirst NG,2023-07-29,Food and Beverages,Abuja,FCT,Active
+SELL051,HealthFood NG,2023-11-07,Food and Beverages,Abuja,FCT,Active
+SELL053,ModaNG,2024-03-27,Food and Beverages,Ibadan,Oyo,Active
+SELL070,GlowUp NG,2022-11-01,Food and Beverages,Lagos,Lagos,Active
+SELL072,ReadRight NG,2023-09-11,Food and Beverages,Lagos,Lagos,Active
+SELL078,NaijaFoods NG,2024-05-28,Food and Beverages,Abuja,FCT,Active
+SELL025,PureBeauty NG,2022-05-02,Beauty and Personal Care,Port Harcourt,Rivers,Active
+SELL028,FashionHub NG,2022-07-04,Beauty and Personal Care,Kano,Kano,Active
+SELL055,GymPro NG,2022-04-05,Beauty and Personal Care,Ibadan,Oyo,Active
+SELL057,AgriMart NG,2022-10-19,Beauty and Personal Care,Lagos,Lagos,Active
+SELL067,FreshStyle NG,2023-11-08,Beauty and Personal Care,Abuja,FCT,Active
+SELL079,ScholarsNG,2022-06-01,Beauty and Personal Care,Lagos,Lagos,Active
+SELL081,FashionKraft NG,2023-08-23,Beauty and Personal Care,Lagos,Lagos,Active
+SELL082,HomeNest NG,2022-02-22,Beauty and Personal Care,Port Harcourt,Rivers,Active
+SELL038,PowerTech NG,2022-10-15,Books and Stationery,Port Harcourt,Rivers,Active
+SELL045,BeautyBox NG,2022-06-01,Books and Stationery,Port Harcourt,Rivers,Active
+SELL056,SkinGlow NG,2023-02-13,Books and Stationery,Ibadan,Oyo,Active
+SELL058,PageTurner NG,2023-03-19,Books and Stationery,Lagos,Lagos,Active
+SELL061,CozyHome NG,2023-01-13,Books and Stationery,Port Harcourt,Rivers,Active
+SELL071,FarmFresh NG,2022-09-29,Books and Stationery,Abuja,FCT,Active
+SELL077,BeautyNation NG,2022-01-28,Books and Stationery,Ibadan,Oyo,Active
+SELL083,FitZone NG,2023-05-23,Books and Stationery,Ibadan,Oyo,Active
+SELL009,StyleZone Lagos,2022-08-31,Books and Stationery,Lagos,Lagos,Active
+SELL089,GardenHouse NG,2023-12-03,Sports and Fitness,Abuja,FCT,Active
+SELL087,TechBase NG,2022-12-22,Food and Beverages,Kano,Kano,Active
+SELL088,StyleKraft NG,2022-07-16,Food and Beverages,Lagos,Lagos,Active
+SELL090,AthleticNG,2023-12-30,Food and Beverages,Port Harcourt,Rivers,Active
