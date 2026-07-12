@@ -86,7 +86,10 @@ TradeZone-Sales-Analytics
 │   ├── TradeZone_Dashboard.pbix
 │   └── Dashboard.png
 │
-├── Data
+├── Database
+│   └── TradeZone_Databae.sql
+│
+├── Dataset
 │   ├── customers.csv
 │   ├── orders.csv
 │   ├── order_items.csv
