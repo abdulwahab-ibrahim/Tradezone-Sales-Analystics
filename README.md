@@ -63,7 +63,7 @@ The dashboard includes:
 
 ## 📸 Dashboard Preview
 
-!(Dashboard/Dashboard.png)
+![TradeZone Dashboard](Dashboard/Dashboard.png)
 
 ---
 
