@@ -63,7 +63,7 @@ The dashboard includes:
 
 ## 📸 Dashboard Preview
 
-![TradeZone Dashboard](Dashboard/Dashboard.png)
+![TradeZone Dashboard](Tradezone-Sales-Analytics/Dashboard/Dashboard.png)
 
 ---
 
