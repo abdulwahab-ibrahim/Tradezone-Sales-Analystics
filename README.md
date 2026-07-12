@@ -21,15 +21,7 @@ This project answers the following business questions:
 
 ## 📂 Dataset
 
-The dataset contains information about:
-
-- Customers
-- Orders
-- Order Items
-- Products
-- Sellers
-- Payments
-- Reviews
+The analysis was performed on an e-commerce dataset provided as part of the HNG Internship. Due to privacy and data-sharing considerations, the original dataset is not included in this repository.
 
 ---
 
