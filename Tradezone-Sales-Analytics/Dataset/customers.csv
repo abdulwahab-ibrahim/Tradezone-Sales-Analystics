@@ -1,0 +1,866 @@
+customer_id,city,state,signup_date,account_status
+CUST0059,Kano,Kano,6/12/2023,Active
+CUST0060,Abuja,FCT,6/17/2024,Active
+CUST0061,Lagos,Lagos,7/7/2024,Active
+CUST0062,Lagos,Lagos,12/5/2023,Active
+CUST0063,Lagos,Lagos,1/21/2023,Active
+CUST0064,Abuja,FCT,3/5/2024,Active
+CUST0065,Abuja,FCT,11/26/2024,Active
+CUST0066,Port Harcourt,Rivers,8/29/2024,Active
+CUST0067,Lagos,Lagos,1/24/2024,Active
+CUST0068,Lagos,Lagos,9/16/2023,Active
+CUST0069,Lagos,Lagos,10/29/2024,Inactive
+CUST0070,Ibadan,Oyo,11/16/2024,Active
+CUST0071,Abuja,FCT,4/28/2023,Active
+CUST0072,Ibadan,Oyo,1/20/2024,Active
+CUST0073,Lagos,Lagos,12/1/2024,Active
+CUST0074,Port Harcourt,Rivers,3/12/2023,Active
+CUST0075,Lagos,Lagos,4/15/2024,Active
+CUST0076,Lagos,Lagos,5/10/2024,Active
+CUST0077,Kano,Kano,4/6/2024,Active
+CUST0078,Kano,Kano,7/6/2023,Active
+CUST0079,Port Harcourt,Rivers,7/23/2024,Inactive
+CUST0080,Lagos,Lagos,5/2/2024,Active
+CUST0081,Abuja,FCT,11/10/2023,Active
+CUST0082,Abuja,FCT,12/27/2023,Active
+CUST0083,Lagos,Lagos,7/2/2024,Active
+CUST0084,Lagos,Lagos,6/21/2024,Active
+CUST0085,Port Harcourt,Rivers,6/30/2024,Active
+CUST0086,Ibadan,Oyo,5/17/2024,Active
+CUST0087,Kano,Kano,9/16/2023,Active
+CUST0088,Lagos,Lagos,2/24/2023,Active
+CUST0089,Ibadan,Oyo,9/2/2024,Active
+CUST0090,Port Harcourt,Rivers,3/15/2024,Active
+CUST0091,Lagos,Lagos,9/28/2023,Active
+CUST0092,Lagos,Lagos,8/31/2024,Active
+CUST0093,Lagos,Lagos,8/28/2023,Active
+CUST0094,Kano,Kano,6/2/2023,Active
+CUST0095,Lagos,Lagos,10/23/2023,Active
+CUST0096,Kano,Kano,3/24/2024,Active
+CUST0097,Ibadan,Oyo,11/21/2024,Active
+CUST0098,Ibadan,Oyo,4/26/2024,Active
+CUST0099,Ibadan,Oyo,4/4/2023,Active
+CUST0100,Lagos,Lagos,5/22/2024,Active
+CUST0101,Port Harcourt,Rivers,4/29/2023,Active
+CUST0102,Ibadan,Oyo,2/25/2023,Active
+CUST0103,Kano,Kano,5/15/2023,Active
+CUST0104,Ibadan,Oyo,9/3/2023,Active
+CUST0105,Kano,Kano,4/27/2023,Active
+CUST0106,Kano,Kano,10/7/2023,Active
+CUST0107,Ibadan,Oyo,9/5/2024,Active
+CUST0108,Ibadan,Oyo,1/3/2023,Active
+CUST0109,Port Harcourt,Rivers,12/20/2023,Active
+CUST0110,Abuja,FCT,8/8/2024,Active
+CUST0111,Lagos,Lagos,11/10/2024,Active
+CUST0112,Ibadan,Oyo,4/13/2023,Active
+CUST0113,Lagos,Lagos,11/1/2024,Active
+CUST0114,Abuja,FCT,12/3/2023,Active
+CUST0115,Ibadan,Oyo,8/29/2023,Active
+CUST0116,Ibadan,Oyo,4/13/2023,Active
+CUST0117,Ibadan,Oyo,3/17/2024,Active
+CUST0118,Kano,Kano,1/27/2024,Active
+CUST0119,Abuja,FCT,9/19/2023,Active
+CUST0120,Ibadan,Oyo,8/24/2024,Active
+CUST0121,Kano,Kano,4/20/2023,Active
+CUST0122,Kano,Kano,10/9/2023,Inactive
+CUST0123,Ibadan,Oyo,8/24/2023,Active
+CUST0124,Lagos,Lagos,11/6/2024,Active
+CUST0125,Kano,Kano,1/9/2024,Active
+CUST0126,Ibadan,Oyo,1/10/2024,Active
+CUST0127,Port Harcourt,Rivers,12/13/2023,Active
+CUST0128,Ibadan,Oyo,2/11/2024,Active
+CUST0129,Lagos,Lagos,11/19/2024,Active
+CUST0130,Kano,Kano,9/26/2024,Active
+CUST0131,Ibadan,Oyo,11/6/2023,Active
+CUST0132,Lagos,Lagos,7/4/2024,Active
+CUST0133,Abuja,FCT,2/29/2024,Active
+CUST0134,Kano,Kano,8/30/2023,Active
+CUST0135,Ibadan,Oyo,2/12/2024,Active
+CUST0136,Ibadan,Oyo,9/3/2024,Active
+CUST0137,Port Harcourt,Rivers,7/21/2024,Active
+CUST0138,Port Harcourt,Rivers,1/3/2023,Active
+CUST0139,Ibadan,Oyo,1/27/2023,Active
+CUST0140,Port Harcourt,Rivers,5/10/2023,Active
+CUST0141,Lagos,Lagos,4/22/2023,Active
+CUST0142,Ibadan,Oyo,3/4/2023,Active
+CUST0143,Abuja,FCT,3/24/2023,Active
+CUST0144,Lagos,Lagos,1/26/2024,Active
+CUST0145,Lagos,Lagos,11/1/2024,Active
+CUST0146,Port Harcourt,Rivers,4/9/2024,Active
+CUST0147,Lagos,Lagos,4/30/2024,Inactive
+CUST0148,Lagos,Lagos,7/29/2024,Active
+CUST0149,Lagos,Lagos,10/22/2023,Active
+CUST0150,Lagos,Lagos,4/21/2023,Active
+CUST0151,Abuja,FCT,7/28/2024,Active
+CUST0152,Kano,Kano,11/13/2023,Active
+CUST0154,Port Harcourt,Rivers,11/16/2023,Active
+CUST0155,Kano,Kano,11/21/2024,Active
+CUST0156,Kano,Kano,6/8/2024,Active
+CUST0157,Lagos,Lagos,8/14/2023,Active
+CUST0158,Lagos,Lagos,9/19/2023,Active
+CUST0159,Lagos,Lagos,8/24/2023,Active
+CUST0160,Port Harcourt,Rivers,4/15/2024,Active
+CUST0161,Kano,Kano,2/19/2024,Inactive
+CUST0162,Lagos,Lagos,3/23/2024,Active
+CUST0163,Abuja,FCT,12/14/2023,Active
+CUST0164,Lagos,Lagos,12/24/2023,Active
+CUST0165,Port Harcourt,Rivers,6/6/2023,Active
+CUST0166,Lagos,Lagos,4/4/2024,Active
+CUST0167,Kano,Kano,3/26/2024,Inactive
+CUST0168,Kano,Kano,11/14/2023,Active
+CUST0169,Lagos,Lagos,4/3/2023,Active
+CUST0170,Abuja,FCT,4/5/2024,Active
+CUST0171,Lagos,Lagos,12/18/2023,Active
+CUST0172,Abuja,FCT,6/20/2024,Active
+CUST0173,Abuja,FCT,9/4/2024,Inactive
+CUST0174,Lagos,Lagos,11/3/2024,Active
+CUST0175,Ibadan,Oyo,11/14/2023,Active
+CUST0176,Lagos,Lagos,12/3/2023,Active
+CUST0177,Port Harcourt,Rivers,1/6/2024,Inactive
+CUST0178,Lagos,Lagos,5/21/2023,Active
+CUST0179,Port Harcourt,Rivers,6/23/2024,Inactive
+CUST0180,Ibadan,Oyo,10/1/2024,Active
+CUST0181,Port Harcourt,Rivers,3/30/2024,Active
+CUST0182,Lagos,Lagos,7/18/2023,Active
+CUST0183,Ibadan,Oyo,6/15/2023,Active
+CUST0184,Ibadan,Oyo,6/12/2024,Active
+CUST0185,Lagos,Lagos,3/23/2024,Active
+CUST0186,Port Harcourt,Rivers,5/29/2024,Active
+CUST0187,Ibadan,Oyo,10/27/2024,Active
+CUST0188,Lagos,Lagos,4/25/2024,Active
+CUST0189,Ibadan,Oyo,9/15/2024,Active
+CUST0190,Port Harcourt,Rivers,9/29/2024,Active
+CUST0191,Port Harcourt,Rivers,9/5/2023,Active
+CUST0192,Abuja,FCT,11/15/2024,Active
+CUST0193,Lagos,Lagos,1/21/2023,Active
+CUST0194,Lagos,Lagos,3/11/2023,Active
+CUST0195,Kano,Kano,12/27/2023,Active
+CUST0196,Port Harcourt,Rivers,5/19/2023,Inactive
+CUST0197,Lagos,Lagos,11/14/2023,Active
+CUST0198,Abuja,FCT,11/2/2024,Active
+CUST0199,Port Harcourt,Rivers,12/14/2023,Active
+CUST0200,Kano,Kano,3/22/2023,Active
+CUST0201,Abuja,FCT,4/1/2024,Active
+CUST0202,Lagos,Lagos,12/28/2023,Active
+CUST0203,Lagos,Lagos,6/9/2024,Active
+CUST0204,Lagos,Lagos,2/5/2023,Active
+CUST0205,Port Harcourt,Rivers,6/7/2023,Active
+CUST0206,Abuja,FCT,11/18/2023,Active
+CUST0207,Ibadan,Oyo,5/1/2023,Active
+CUST0208,Port Harcourt,Rivers,7/24/2023,Active
+CUST0209,Abuja,FCT,11/24/2023,Active
+CUST0210,Abuja,FCT,10/15/2024,Active
+CUST0211,Abuja,FCT,1/27/2023,Active
+CUST0212,Abuja,FCT,2/12/2024,Active
+CUST0213,Abuja,FCT,11/21/2023,Active
+CUST0214,Abuja,FCT,10/17/2024,Active
+CUST0215,Abuja,FCT,6/18/2023,Active
+CUST0216,Lagos,Lagos,7/18/2024,Active
+CUST0217,Lagos,Lagos,8/17/2024,Active
+CUST0218,Kano,Kano,1/30/2023,Active
+CUST0219,Kano,Kano,10/4/2024,Active
+CUST0220,Abuja,FCT,6/11/2023,Active
+CUST0221,Abuja,FCT,12/20/2023,Active
+CUST0222,Port Harcourt,Rivers,10/1/2023,Active
+CUST0223,Lagos,Lagos,6/13/2023,Active
+CUST0224,Port Harcourt,Rivers,11/12/2023,Active
+CUST0225,Ibadan,Oyo,2/19/2023,Inactive
+CUST0226,Kano,Kano,3/17/2024,Active
+CUST0227,Port Harcourt,Rivers,7/29/2024,Active
+CUST0228,Lagos,Lagos,9/30/2024,Active
+CUST0229,Lagos,Lagos,1/10/2024,Active
+CUST0230,Kano,Kano,12/8/2023,Active
+CUST0231,Lagos,Lagos,6/16/2023,Active
+CUST0232,Port Harcourt,Rivers,5/16/2024,Active
+CUST0233,Abuja,FCT,8/20/2024,Active
+CUST0234,Kano,Kano,5/6/2024,Active
+CUST0235,Lagos,Lagos,7/15/2023,Inactive
+CUST0236,Abuja,FCT,4/27/2024,Active
+CUST0237,Port Harcourt,Rivers,6/22/2024,Active
+CUST0238,Abuja,FCT,11/28/2024,Active
+CUST0239,Kano,Kano,11/1/2023,Active
+CUST0240,Kano,Kano,10/8/2023,Active
+CUST0241,Ibadan,Oyo,2/13/2023,Active
+CUST0242,Lagos,Lagos,7/5/2024,Active
+CUST0243,Kano,Kano,2/21/2023,Active
+CUST0244,Kano,Kano,11/28/2024,Active
+CUST0245,Ibadan,Oyo,5/2/2024,Active
+CUST0246,Port Harcourt,Rivers,4/2/2023,Active
+CUST0247,Abuja,FCT,6/30/2023,Active
+CUST0248,Ibadan,Oyo,10/24/2023,Active
+CUST0249,Lagos,Lagos,10/18/2024,Active
+CUST0250,Ibadan,Oyo,12/5/2023,Active
+CUST0251,Kano,Kano,8/4/2024,Active
+CUST0252,Lagos,Lagos,2/15/2024,Active
+CUST0253,Ibadan,Oyo,8/30/2023,Active
+CUST0254,Ibadan,Oyo,1/4/2024,Active
+CUST0255,Kano,Kano,11/15/2023,Active
+CUST0256,Abuja,FCT,9/12/2024,Active
+CUST0257,Port Harcourt,Rivers,3/25/2023,Active
+CUST0258,Port Harcourt,Rivers,6/1/2024,Active
+CUST0259,Lagos,Lagos,8/20/2024,Active
+CUST0260,Abuja,FCT,3/1/2023,Active
+CUST0261,Port Harcourt,Rivers,3/16/2023,Inactive
+CUST0262,Port Harcourt,Rivers,4/28/2024,Inactive
+CUST0263,Lagos,Lagos,1/22/2024,Active
+CUST0264,Ibadan,Oyo,7/2/2023,Active
+CUST0266,Abuja,FCT,7/13/2023,Active
+CUST0267,Lagos,Lagos,1/17/2023,Active
+CUST0268,Lagos,Lagos,9/8/2023,Active
+CUST0269,Abuja,FCT,5/30/2024,Active
+CUST0270,Port Harcourt,Rivers,11/25/2023,Active
+CUST0271,Ibadan,Oyo,8/28/2024,Active
+CUST0272,Kano,Kano,10/20/2024,Active
+CUST0273,Kano,Kano,4/29/2024,Active
+CUST0274,Lagos,Lagos,2/27/2024,Active
+CUST0275,Abuja,FCT,4/5/2024,Active
+CUST0276,Abuja,FCT,9/9/2024,Inactive
+CUST0277,Lagos,Lagos,8/2/2023,Active
+CUST0278,Lagos,Lagos,5/1/2023,Active
+CUST0279,Ibadan,Oyo,7/19/2024,Active
+CUST0280,Abuja,FCT,5/24/2024,Active
+CUST0281,Port Harcourt,Rivers,8/15/2023,Active
+CUST0282,Lagos,Lagos,7/20/2023,Active
+CUST0283,Kano,Kano,9/21/2023,Active
+CUST0284,Ibadan,Oyo,6/23/2023,Active
+CUST0285,Lagos,Lagos,3/18/2023,Active
+CUST0286,Lagos,Lagos,6/4/2023,Inactive
+CUST0287,Abuja,FCT,5/9/2024,Active
+CUST0288,Lagos,Lagos,7/2/2024,Active
+CUST0289,Abuja,FCT,4/9/2023,Active
+CUST0290,Lagos,Lagos,3/22/2023,Active
+CUST0291,Abuja,FCT,10/31/2024,Active
+CUST0292,Lagos,Lagos,6/25/2023,Active
+CUST0293,Kano,Kano,2/13/2023,Active
+CUST0294,Lagos,Lagos,7/31/2024,Active
+CUST0295,Ibadan,Oyo,2/12/2024,Active
+CUST0265,Abuja,FCT,11/2/2023,Active
+CUST0296,Lagos,Lagos,7/7/2024,Active
+CUST0297,Lagos,Lagos,4/11/2023,Active
+CUST0298,Lagos,Lagos,12/1/2023,Inactive
+CUST0299,Port Harcourt,Rivers,3/18/2024,Active
+CUST0300,Kano,Kano,3/26/2023,Active
+CUST0301,Port Harcourt,Rivers,4/4/2023,Inactive
+CUST0302,Abuja,FCT,4/4/2024,Active
+CUST0303,Lagos,Lagos,11/29/2023,Active
+CUST0304,Lagos,Lagos,9/6/2023,Active
+CUST0305,Kano,Kano,3/6/2023,Active
+CUST0306,Abuja,FCT,10/2/2024,Active
+CUST0307,Abuja,FCT,9/27/2024,Active
+CUST0308,Abuja,FCT,7/25/2023,Active
+CUST0309,Ibadan,Oyo,8/12/2024,Active
+CUST0310,Abuja,FCT,8/29/2024,Active
+CUST0311,Kano,Kano,8/3/2023,Active
+CUST0312,Port Harcourt,Rivers,9/5/2023,Active
+CUST0313,Port Harcourt,Rivers,8/19/2024,Active
+CUST0314,Ibadan,Oyo,7/3/2024,Active
+CUST0315,Lagos,Lagos,10/22/2024,Active
+CUST0316,Ibadan,Oyo,6/6/2024,Active
+CUST0317,Abuja,FCT,6/4/2023,Active
+CUST0318,Abuja,FCT,5/26/2023,Active
+CUST0319,Abuja,FCT,4/8/2024,Active
+CUST0320,Lagos,Lagos,11/24/2024,Active
+CUST0321,Lagos,Lagos,4/18/2024,Active
+CUST0322,Kano,Kano,7/22/2023,Active
+CUST0323,Abuja,FCT,3/6/2023,Active
+CUST0324,Abuja,FCT,6/24/2024,Active
+CUST0325,Kano,Kano,4/13/2024,Active
+CUST0326,Ibadan,Oyo,11/9/2023,Active
+CUST0327,Kano,Kano,3/9/2024,Active
+CUST0328,Kano,Kano,9/26/2024,Inactive
+CUST0329,Ibadan,Oyo,6/1/2024,Active
+CUST0330,Kano,Kano,8/14/2023,Active
+CUST0331,Lagos,Lagos,5/22/2024,Active
+CUST0332,Kano,Kano,2/12/2023,Active
+CUST0333,Abuja,FCT,11/1/2023,Active
+CUST0334,Abuja,FCT,8/31/2023,Active
+CUST0335,Ibadan,Oyo,7/31/2023,Active
+CUST0336,Abuja,FCT,10/24/2023,Active
+CUST0337,Lagos,Lagos,11/2/2024,Active
+CUST0338,Lagos,Lagos,2/7/2024,Active
+CUST0339,Kano,Kano,4/6/2023,Active
+CUST0340,Kano,Kano,1/3/2023,Active
+CUST0341,Port Harcourt,Rivers,8/12/2023,Active
+CUST0342,Abuja,FCT,5/11/2024,Active
+CUST0343,Lagos,Lagos,3/27/2024,Active
+CUST0344,Lagos,Lagos,10/8/2023,Active
+CUST0345,Lagos,Lagos,8/28/2023,Active
+CUST0346,Port Harcourt,Rivers,6/15/2024,Active
+CUST0347,Lagos,Lagos,3/14/2023,Active
+CUST0348,Port Harcourt,Rivers,1/27/2024,Active
+CUST0350,Port Harcourt,Rivers,8/11/2023,Active
+CUST0351,Lagos,Lagos,11/19/2023,Active
+CUST0352,Lagos,Lagos,10/19/2023,Active
+CUST0353,Lagos,Lagos,2/6/2024,Active
+CUST0354,Port Harcourt,Rivers,10/15/2024,Active
+CUST0355,Ibadan,Oyo,8/5/2024,Active
+CUST0356,Port Harcourt,Rivers,8/9/2023,Inactive
+CUST0357,Ibadan,Oyo,3/1/2024,Active
+CUST0358,Lagos,Lagos,3/22/2023,Active
+CUST0359,Ibadan,Oyo,10/27/2024,Active
+CUST0360,Lagos,Lagos,4/29/2023,Active
+CUST0361,Lagos,Lagos,1/12/2023,Active
+CUST0362,Abuja,FCT,10/3/2023,Active
+CUST0363,Port Harcourt,Rivers,9/27/2023,Active
+CUST0364,Kano,Kano,8/3/2024,Active
+CUST0365,Lagos,Lagos,6/5/2024,Inactive
+CUST0366,Lagos,Lagos,2/6/2023,Active
+CUST0367,Port Harcourt,Rivers,11/24/2023,Active
+CUST0368,Kano,Kano,6/12/2024,Active
+CUST0369,Lagos,Lagos,7/20/2024,Active
+CUST0370,Lagos,Lagos,8/28/2024,Active
+CUST0371,Port Harcourt,Rivers,8/27/2023,Active
+CUST0372,Ibadan,Oyo,7/30/2023,Active
+CUST0373,Abuja,FCT,8/26/2023,Active
+CUST0349,Kano,Kano,10/27/2024,Active
+CUST0374,Port Harcourt,Rivers,6/1/2024,Active
+CUST0375,Lagos,Lagos,10/26/2023,Active
+CUST0376,Ibadan,Oyo,7/27/2023,Active
+CUST0377,Lagos,Lagos,1/2/2024,Active
+CUST0378,Abuja,FCT,11/8/2023,Active
+CUST0379,Lagos,Lagos,12/31/2023,Active
+CUST0380,Kano,Kano,7/23/2024,Active
+CUST0381,Lagos,Lagos,8/16/2023,Active
+CUST0382,Abuja,FCT,3/18/2023,Inactive
+CUST0383,Lagos,Lagos,12/6/2023,Active
+CUST0384,Lagos,Lagos,1/31/2023,Active
+CUST0385,Lagos,Lagos,2/5/2023,Active
+CUST0386,Lagos,Lagos,3/31/2023,Active
+CUST0387,Abuja,FCT,1/20/2023,Active
+CUST0388,Abuja,FCT,2/2/2024,Active
+CUST0389,Lagos,Lagos,4/28/2024,Active
+CUST0390,Ibadan,Oyo,2/27/2023,Active
+CUST0391,Kano,Kano,6/27/2023,Active
+CUST0392,Port Harcourt,Rivers,12/27/2023,Active
+CUST0393,Lagos,Lagos,4/3/2023,Inactive
+CUST0394,Lagos,Lagos,5/14/2023,Active
+CUST0395,Ibadan,Oyo,5/26/2023,Active
+CUST0396,Ibadan,Oyo,5/20/2023,Active
+CUST0397,Port Harcourt,Rivers,9/20/2024,Active
+CUST0398,Kano,Kano,5/11/2023,Active
+CUST0399,Ibadan,Oyo,2/3/2023,Active
+CUST0400,Ibadan,Oyo,5/25/2023,Active
+CUST0401,Lagos,Lagos,11/17/2024,Active
+CUST0402,Abuja,FCT,4/21/2023,Active
+CUST0403,Abuja,FCT,1/23/2024,Active
+CUST0404,Lagos,Lagos,4/7/2024,Inactive
+CUST0405,Lagos,Lagos,1/20/2024,Active
+CUST0406,Abuja,FCT,5/9/2024,Active
+CUST0407,Ibadan,Oyo,12/6/2023,Active
+CUST0408,Abuja,FCT,4/9/2023,Inactive
+CUST0409,Lagos,Lagos,10/2/2024,Active
+CUST0410,Lagos,Lagos,4/29/2023,Active
+CUST0411,Abuja,FCT,1/15/2024,Active
+CUST0412,Lagos,Lagos,10/3/2023,Active
+CUST0413,Port Harcourt,Rivers,2/28/2024,Active
+CUST0414,Lagos,Lagos,5/1/2024,Active
+CUST0415,Abuja,FCT,8/7/2024,Active
+CUST0416,Lagos,Lagos,8/5/2023,Active
+CUST0417,Lagos,Lagos,9/1/2024,Active
+CUST0418,Ibadan,Oyo,10/10/2023,Active
+CUST0419,Port Harcourt,Rivers,6/3/2023,Active
+CUST0420,Kano,Kano,7/2/2024,Active
+CUST0421,Lagos,Lagos,10/10/2023,Active
+CUST0422,Kano,Kano,9/1/2023,Inactive
+CUST0423,Ibadan,Oyo,11/15/2023,Active
+CUST0424,Ibadan,Oyo,3/29/2024,Active
+CUST0425,Lagos,Lagos,2/21/2024,Active
+CUST0426,Ibadan,Oyo,6/2/2024,Active
+CUST0427,Lagos,Lagos,2/21/2023,Active
+CUST0428,Lagos,Lagos,11/28/2024,Inactive
+CUST0429,Abuja,FCT,12/25/2023,Active
+CUST0430,Port Harcourt,Rivers,8/8/2024,Active
+CUST0431,Ibadan,Oyo,6/9/2024,Inactive
+CUST0432,Abuja,FCT,9/14/2024,Active
+CUST0433,Port Harcourt,Rivers,4/15/2024,Active
+CUST0435,Kano,Kano,3/7/2023,Active
+CUST0436,Kano,Kano,10/29/2024,Active
+CUST0437,Abuja,FCT,2/18/2024,Active
+CUST0438,Port Harcourt,Rivers,2/2/2024,Active
+CUST0439,Port Harcourt,Rivers,7/1/2024,Active
+CUST0440,Ibadan,Oyo,11/4/2024,Active
+CUST0441,Lagos,Lagos,7/7/2023,Active
+CUST0442,Kano,Kano,12/6/2023,Active
+CUST0443,Abuja,FCT,9/27/2024,Inactive
+CUST0444,Abuja,FCT,6/4/2023,Active
+CUST0445,Lagos,Lagos,3/24/2023,Active
+CUST0446,Ibadan,Oyo,6/22/2023,Active
+CUST0447,Abuja,FCT,2/18/2024,Active
+CUST0448,Abuja,FCT,11/26/2023,Active
+CUST0449,Lagos,Lagos,5/13/2023,Active
+CUST0450,Kano,Kano,4/11/2024,Active
+CUST0451,Abuja,FCT,7/12/2023,Active
+CUST0434,Lagos,Lagos,11/9/2024,Active
+CUST0452,Lagos,Lagos,6/23/2023,Active
+CUST0453,Kano,Kano,9/30/2024,Inactive
+CUST0454,Kano,Kano,1/25/2024,Active
+CUST0456,Kano,Kano,9/24/2024,Active
+CUST0457,Port Harcourt,Rivers,6/19/2024,Active
+CUST0458,Port Harcourt,Rivers,5/7/2024,Active
+CUST0459,Lagos,Lagos,4/3/2023,Active
+CUST0460,Port Harcourt,Rivers,10/31/2023,Active
+CUST0461,Lagos,Lagos,11/17/2023,Active
+CUST0462,Lagos,Lagos,6/24/2023,Active
+CUST0463,Ibadan,Oyo,2/15/2024,Active
+CUST0464,Lagos,Lagos,6/20/2023,Active
+CUST0465,Port Harcourt,Rivers,8/5/2024,Active
+CUST0466,Kano,Kano,5/14/2023,Active
+CUST0467,Lagos,Lagos,1/13/2023,Active
+CUST0468,Abuja,FCT,11/16/2024,Active
+CUST0469,Abuja,FCT,1/30/2024,Active
+CUST0628,Abuja,FCT,4/1/2024,Active
+CUST0470,Lagos,Lagos,6/19/2023,Inactive
+CUST0471,Lagos,Lagos,1/23/2024,Active
+CUST0472,Lagos,Lagos,11/20/2023,Active
+CUST0473,Port Harcourt,Rivers,1/1/2023,Active
+CUST0474,Ibadan,Oyo,11/18/2024,Active
+CUST0475,Abuja,FCT,9/26/2024,Active
+CUST0477,Abuja,FCT,2/24/2024,Active
+CUST0478,Lagos,Lagos,12/13/2023,Active
+CUST0479,Lagos,Lagos,11/5/2024,Active
+CUST0480,Lagos,Lagos,3/19/2024,Active
+CUST0481,Ibadan,Oyo,5/12/2023,Active
+CUST0482,Abuja,FCT,10/8/2023,Active
+CUST0483,Ibadan,Oyo,6/8/2024,Active
+CUST0484,Port Harcourt,Rivers,10/25/2023,Active
+CUST0485,Ibadan,Oyo,4/29/2023,Active
+CUST0486,Kano,Kano,10/20/2023,Active
+CUST0487,Port Harcourt,Rivers,2/27/2023,Active
+CUST0488,Ibadan,Oyo,10/30/2023,Active
+CUST0489,Abuja,FCT,8/18/2023,Active
+CUST0490,Lagos,Lagos,2/1/2024,Active
+CUST0491,Lagos,Lagos,3/29/2024,Active
+CUST0492,Port Harcourt,Rivers,7/21/2023,Active
+CUST0493,Lagos,Lagos,5/3/2023,Active
+CUST0494,Lagos,Lagos,12/5/2023,Active
+CUST0495,Lagos,Lagos,9/22/2024,Active
+CUST0496,Abuja,FCT,6/22/2024,Active
+CUST0497,Abuja,FCT,4/5/2023,Active
+CUST0498,Kano,Kano,6/27/2024,Active
+CUST0499,Lagos,Lagos,9/28/2024,Active
+CUST0500,Kano,Kano,9/20/2023,Active
+CUST0501,Lagos,Lagos,2/14/2023,Active
+CUST0502,Lagos,Lagos,7/4/2024,Active
+CUST0503,Lagos,Lagos,7/30/2023,Active
+CUST0504,Ibadan,Oyo,6/7/2023,Inactive
+CUST0505,Lagos,Lagos,8/11/2024,Active
+CUST0506,Abuja,FCT,5/2/2023,Active
+CUST0507,Port Harcourt,Rivers,5/29/2024,Active
+CUST0508,Kano,Kano,4/30/2024,Active
+CUST0509,Lagos,Lagos,11/24/2024,Active
+CUST0510,Kano,Kano,1/6/2023,Active
+CUST0511,Abuja,FCT,12/19/2023,Active
+CUST0512,Lagos,Lagos,11/18/2024,Active
+CUST0513,Ibadan,Oyo,11/18/2024,Inactive
+CUST0514,Lagos,Lagos,11/2/2024,Active
+CUST0515,Kano,Kano,11/6/2024,Active
+CUST0516,Kano,Kano,9/10/2023,Active
+CUST0517,Lagos,Lagos,4/18/2024,Active
+CUST0518,Abuja,FCT,5/24/2023,Active
+CUST0519,Lagos,Lagos,6/3/2024,Active
+CUST0520,Kano,Kano,7/10/2024,Active
+CUST0521,Kano,Kano,10/25/2023,Active
+CUST0522,Abuja,FCT,9/20/2024,Active
+CUST0523,Abuja,FCT,5/30/2023,Active
+CUST0524,Ibadan,Oyo,1/14/2024,Active
+CUST0525,Abuja,FCT,2/17/2023,Inactive
+CUST0526,Lagos,Lagos,8/6/2024,Active
+CUST0527,Abuja,FCT,8/17/2023,Active
+CUST0528,Port Harcourt,Rivers,5/28/2024,Active
+CUST0529,Lagos,Lagos,6/11/2023,Active
+CUST0530,Port Harcourt,Rivers,5/8/2024,Active
+CUST0531,Lagos,Lagos,8/29/2024,Active
+CUST0532,Abuja,FCT,7/4/2023,Active
+CUST0533,Kano,Kano,10/18/2023,Active
+CUST0534,Abuja,FCT,5/27/2023,Active
+CUST0535,Kano,Kano,4/9/2024,Active
+CUST0536,Lagos,Lagos,5/31/2024,Active
+CUST0537,Kano,Kano,6/28/2024,Active
+CUST0538,Lagos,Lagos,11/25/2024,Active
+CUST0539,Abuja,FCT,5/8/2024,Active
+CUST0540,Abuja,FCT,8/27/2023,Active
+CUST0541,Lagos,Lagos,1/8/2023,Active
+CUST0542,Abuja,FCT,4/20/2023,Active
+CUST0543,Lagos,Lagos,11/27/2024,Active
+CUST0544,Abuja,FCT,5/10/2024,Active
+CUST0545,Kano,Kano,5/2/2023,Active
+CUST0546,Port Harcourt,Rivers,7/17/2024,Active
+CUST0547,Lagos,Lagos,9/6/2024,Active
+CUST0548,Lagos,Lagos,2/15/2024,Active
+CUST0549,Lagos,Lagos,5/21/2024,Active
+CUST0550,Ibadan,Oyo,6/6/2024,Active
+CUST0552,Port Harcourt,Rivers,3/12/2023,Active
+CUST0553,Lagos,Lagos,10/11/2023,Active
+CUST0554,Abuja,FCT,4/20/2023,Active
+CUST0555,Lagos,Lagos,8/11/2024,Active
+CUST0556,Ibadan,Oyo,4/14/2024,Active
+CUST0557,Abuja,FCT,11/24/2024,Active
+CUST0558,Abuja,FCT,9/12/2023,Active
+CUST0559,Kano,Kano,11/18/2023,Active
+CUST0560,Lagos,Lagos,9/5/2023,Active
+CUST0561,Lagos,Lagos,4/20/2023,Active
+CUST0562,Kano,Kano,2/13/2023,Active
+CUST0563,Kano,Kano,6/7/2024,Active
+CUST0564,Port Harcourt,Rivers,7/7/2024,Inactive
+CUST0565,Abuja,FCT,4/16/2024,Active
+CUST0566,Lagos,Lagos,9/23/2023,Active
+CUST0567,Lagos,Lagos,8/4/2023,Active
+CUST0568,Abuja,FCT,8/12/2024,Active
+CUST0569,Port Harcourt,Rivers,5/30/2023,Active
+CUST0570,Abuja,FCT,10/7/2024,Active
+CUST0571,Port Harcourt,Rivers,4/12/2023,Active
+CUST0572,Lagos,Lagos,12/9/2023,Active
+CUST0573,Kano,Kano,11/26/2024,Active
+CUST0574,Kano,Kano,11/29/2023,Active
+CUST0575,Port Harcourt,Rivers,5/29/2023,Active
+CUST0576,Abuja,FCT,6/15/2023,Active
+CUST0577,Lagos,Lagos,3/31/2024,Active
+CUST0578,Port Harcourt,Rivers,5/9/2023,Active
+CUST0579,Ibadan,Oyo,3/7/2023,Active
+CUST0580,Abuja,FCT,9/26/2023,Active
+CUST0581,Kano,Kano,3/29/2024,Active
+CUST0582,Abuja,FCT,11/30/2023,Active
+CUST0583,Ibadan,Oyo,7/6/2024,Active
+CUST0584,Kano,Kano,11/14/2023,Active
+CUST0585,Abuja,FCT,6/9/2023,Active
+CUST0586,Abuja,FCT,5/18/2024,Active
+CUST0587,Lagos,Lagos,1/8/2023,Active
+CUST0588,Abuja,FCT,10/23/2024,Active
+CUST0589,Lagos,Lagos,9/19/2024,Active
+CUST0590,Lagos,Lagos,3/12/2023,Active
+CUST0591,Lagos,Lagos,7/12/2023,Active
+CUST0592,Lagos,Lagos,5/9/2023,Active
+CUST0593,Lagos,Lagos,11/16/2023,Active
+CUST0594,Ibadan,Oyo,5/30/2023,Inactive
+CUST0595,Lagos,Lagos,1/26/2024,Active
+CUST0596,Ibadan,Oyo,2/4/2023,Active
+CUST0597,Abuja,FCT,11/27/2023,Active
+CUST0598,Port Harcourt,Rivers,7/23/2023,Active
+CUST0599,Ibadan,Oyo,6/21/2023,Active
+CUST0600,Abuja,FCT,5/1/2024,Active
+CUST0601,Abuja,FCT,12/13/2023,Active
+CUST0603,Port Harcourt,Rivers,1/22/2023,Active
+CUST0604,Port Harcourt,Rivers,7/9/2024,Active
+CUST0605,Kano,Kano,9/5/2024,Active
+CUST0606,Lagos,Lagos,4/9/2024,Inactive
+CUST0607,Abuja,FCT,9/27/2024,Active
+CUST0608,Kano,Kano,7/18/2024,Active
+CUST0609,Lagos,Lagos,2/14/2023,Active
+CUST0610,Lagos,Lagos,8/7/2024,Active
+CUST0611,Kano,Kano,8/15/2023,Active
+CUST0612,Lagos,Lagos,3/23/2023,Active
+CUST0613,Lagos,Lagos,9/23/2024,Active
+CUST0614,Port Harcourt,Rivers,4/10/2023,Active
+CUST0615,Abuja,FCT,7/3/2023,Active
+CUST0616,Port Harcourt,Rivers,3/13/2024,Active
+CUST0617,Port Harcourt,Rivers,9/6/2024,Active
+CUST0618,Ibadan,Oyo,3/16/2024,Active
+CUST0619,Kano,Kano,9/18/2023,Active
+CUST0620,Abuja,FCT,1/17/2023,Active
+CUST0621,Lagos,Lagos,10/10/2023,Active
+CUST0622,Kano,Kano,6/9/2023,Active
+CUST0623,Ibadan,Oyo,2/14/2024,Active
+CUST0624,Port Harcourt,Rivers,8/13/2024,Active
+CUST0625,Kano,Kano,2/27/2023,Active
+CUST0626,Lagos,Lagos,8/21/2023,Active
+CUST0627,Ibadan,Oyo,7/6/2024,Active
+CUST0629,Lagos,Lagos,8/8/2024,Active
+CUST0630,Abuja,FCT,5/19/2023,Active
+CUST0631,Abuja,FCT,6/20/2024,Active
+CUST0632,Lagos,Lagos,11/18/2024,Active
+CUST0633,Lagos,Lagos,6/23/2023,Active
+CUST0634,Port Harcourt,Rivers,8/28/2023,Active
+CUST0635,Lagos,Lagos,9/27/2024,Active
+CUST0636,Lagos,Lagos,8/3/2023,Active
+CUST0637,Lagos,Lagos,5/25/2023,Active
+CUST0638,Lagos,Lagos,7/25/2023,Active
+CUST0639,Lagos,Lagos,11/6/2024,Active
+CUST0640,Lagos,Lagos,4/12/2023,Active
+CUST0641,Ibadan,Oyo,7/28/2024,Active
+CUST0642,Lagos,Lagos,6/10/2023,Inactive
+CUST0643,Abuja,FCT,10/10/2023,Active
+CUST0644,Ibadan,Oyo,6/5/2023,Active
+CUST0645,Kano,Kano,10/2/2024,Active
+CUST0646,Lagos,Lagos,4/4/2024,Active
+CUST0647,Kano,Kano,11/13/2023,Active
+CUST0648,Abuja,FCT,11/22/2023,Inactive
+CUST0649,Lagos,Lagos,2/28/2024,Active
+CUST0650,Abuja,FCT,7/9/2023,Inactive
+CUST0651,Kano,Kano,1/3/2024,Inactive
+CUST0652,Lagos,Lagos,2/1/2024,Active
+CUST0653,Lagos,Lagos,10/4/2023,Active
+CUST0654,Port Harcourt,Rivers,3/25/2024,Active
+CUST0655,Kano,Kano,2/12/2023,Active
+CUST0656,Port Harcourt,Rivers,6/21/2024,Active
+CUST0657,Abuja,FCT,9/9/2023,Active
+CUST0658,Ibadan,Oyo,2/20/2023,Active
+CUST0659,Abuja,FCT,2/25/2023,Active
+CUST0660,Abuja,FCT,8/22/2024,Active
+CUST0661,Abuja,FCT,7/26/2023,Active
+CUST0662,Lagos,Lagos,4/5/2024,Active
+CUST0663,Abuja,FCT,1/25/2024,Inactive
+CUST0664,Ibadan,Oyo,2/22/2023,Active
+CUST0665,Port Harcourt,Rivers,7/27/2023,Inactive
+CUST0666,Lagos,Lagos,5/20/2024,Active
+CUST0667,Kano,Kano,9/8/2023,Active
+CUST0668,Kano,Kano,12/24/2023,Inactive
+CUST0669,Kano,Kano,4/22/2023,Active
+CUST0670,Lagos,Lagos,7/29/2024,Active
+CUST0671,Port Harcourt,Rivers,1/24/2024,Active
+CUST0672,Port Harcourt,Rivers,10/9/2023,Active
+CUST0673,Abuja,FCT,10/6/2024,Active
+CUST0674,Abuja,FCT,3/13/2024,Active
+CUST0675,Lagos,Lagos,5/23/2024,Active
+CUST0676,Abuja,FCT,7/18/2023,Inactive
+CUST0677,Abuja,FCT,2/29/2024,Active
+CUST0678,Lagos,Lagos,9/18/2023,Active
+CUST0679,Lagos,Lagos,12/16/2023,Active
+CUST0680,Kano,Kano,11/19/2024,Active
+CUST0681,Port Harcourt,Rivers,7/3/2024,Active
+CUST0682,Port Harcourt,Rivers,11/25/2024,Active
+CUST0683,Lagos,Lagos,3/9/2023,Active
+CUST0684,Port Harcourt,Rivers,9/12/2024,Active
+CUST0685,Lagos,Lagos,10/6/2023,Active
+CUST0686,Ibadan,Oyo,11/6/2023,Active
+CUST0687,Port Harcourt,Rivers,5/9/2024,Active
+CUST0688,Lagos,Lagos,12/2/2023,Active
+CUST0689,Port Harcourt,Rivers,6/18/2024,Active
+CUST0690,Ibadan,Oyo,2/17/2023,Active
+CUST0691,Lagos,Lagos,7/17/2023,Active
+CUST0692,Lagos,Lagos,1/16/2023,Active
+CUST0693,Abuja,FCT,10/18/2023,Active
+CUST0694,Lagos,Lagos,4/27/2024,Active
+CUST0695,Lagos,Lagos,8/29/2024,Active
+CUST0696,Kano,Kano,11/17/2024,Active
+CUST0697,Ibadan,Oyo,4/24/2024,Active
+CUST0698,Kano,Kano,9/23/2024,Active
+CUST0699,Abuja,FCT,5/14/2024,Inactive
+CUST0700,Lagos,Lagos,9/10/2024,Active
+CUST0701,Lagos,Lagos,11/6/2023,Active
+CUST0702,Kano,Kano,1/29/2024,Inactive
+CUST0703,Port Harcourt,Rivers,12/17/2023,Active
+CUST0704,Lagos,Lagos,5/13/2024,Active
+CUST0705,Abuja,FCT,2/20/2024,Inactive
+CUST0706,Kano,Kano,4/3/2023,Active
+CUST0707,Ibadan,Oyo,6/28/2024,Active
+CUST0708,Lagos,Lagos,11/8/2023,Active
+CUST0709,Port Harcourt,Rivers,6/6/2024,Active
+CUST0710,Ibadan,Oyo,7/27/2024,Active
+CUST0711,Lagos,Lagos,10/2/2024,Active
+CUST0712,Abuja,FCT,7/12/2023,Active
+CUST0713,Port Harcourt,Rivers,3/15/2023,Active
+CUST0714,Port Harcourt,Rivers,10/19/2024,Active
+CUST0715,Ibadan,Oyo,6/5/2024,Active
+CUST0716,Abuja,FCT,8/31/2023,Active
+CUST0717,Abuja,FCT,5/9/2024,Active
+CUST0718,Kano,Kano,10/14/2023,Active
+CUST0719,Abuja,FCT,11/15/2024,Inactive
+CUST0720,Kano,Kano,6/8/2024,Active
+CUST0721,Abuja,FCT,9/3/2024,Active
+CUST0722,Lagos,Lagos,10/26/2023,Active
+CUST0723,Lagos,Lagos,10/12/2023,Active
+CUST0724,Lagos,Lagos,8/28/2024,Active
+CUST0725,Abuja,FCT,7/5/2023,Active
+CUST0726,Lagos,Lagos,5/22/2024,Active
+CUST0727,Port Harcourt,Rivers,12/20/2023,Inactive
+CUST0153,Lagos,Lagos,10/10/2024,Active
+CUST0728,Port Harcourt,Rivers,5/2/2024,Active
+CUST0729,Lagos,Lagos,3/21/2024,Inactive
+CUST0730,Abuja,FCT,6/28/2024,Active
+CUST0731,Kano,Kano,9/19/2023,Active
+CUST0732,Abuja,FCT,6/16/2024,Active
+CUST0733,Lagos,Lagos,6/21/2024,Active
+CUST0735,Ibadan,Oyo,9/11/2024,Active
+CUST0736,Ibadan,Oyo,3/19/2023,Active
+CUST0737,Port Harcourt,Rivers,3/5/2023,Active
+CUST0738,Ibadan,Oyo,7/25/2023,Active
+CUST0739,Kano,Kano,10/20/2024,Active
+CUST0740,Port Harcourt,Rivers,4/1/2024,Inactive
+CUST0741,Lagos,Lagos,6/5/2023,Active
+CUST0742,Kano,Kano,3/13/2023,Active
+CUST0743,Abuja,FCT,1/3/2024,Active
+CUST0744,Abuja,FCT,3/24/2023,Active
+CUST0745,Kano,Kano,11/3/2023,Active
+CUST0746,Kano,Kano,7/14/2023,Active
+CUST0747,Lagos,Lagos,10/20/2024,Active
+CUST0748,Ibadan,Oyo,2/27/2023,Active
+CUST0749,Abuja,FCT,7/3/2024,Active
+CUST0750,Ibadan,Oyo,9/25/2024,Inactive
+CUST0751,Lagos,Lagos,4/12/2024,Active
+CUST0752,Lagos,Lagos,8/14/2023,Inactive
+CUST0753,Abuja,FCT,7/12/2024,Active
+CUST0754,Port Harcourt,Rivers,3/1/2024,Active
+CUST0755,Kano,Kano,10/9/2024,Active
+CUST0756,Lagos,Lagos,10/29/2024,Active
+CUST0757,Abuja,FCT,10/5/2023,Active
+CUST0758,Lagos,Lagos,5/26/2024,Active
+CUST0759,Kano,Kano,7/16/2023,Active
+CUST0760,Kano,Kano,11/6/2024,Active
+CUST0761,Lagos,Lagos,5/24/2024,Active
+CUST0762,Ibadan,Oyo,9/23/2024,Active
+CUST0763,Lagos,Lagos,1/30/2023,Active
+CUST0764,Lagos,Lagos,11/24/2024,Active
+CUST0765,Port Harcourt,Rivers,7/24/2023,Active
+CUST0766,Lagos,Lagos,9/16/2024,Active
+CUST0767,Abuja,FCT,12/10/2023,Active
+CUST0768,Lagos,Lagos,8/14/2023,Active
+CUST0019,Port Harcourt,Rivers,7/16/2024,Active
+CUST0769,Lagos,Lagos,8/24/2023,Active
+CUST0770,Abuja,FCT,3/14/2024,Active
+CUST0771,Lagos,Lagos,6/2/2023,Active
+CUST0772,Abuja,FCT,3/11/2024,Active
+CUST0773,Port Harcourt,Rivers,1/13/2023,Active
+CUST0774,Ibadan,Oyo,1/17/2023,Active
+CUST0775,Lagos,Lagos,4/19/2024,Active
+CUST0776,Abuja,FCT,10/4/2024,Inactive
+CUST0777,Abuja,FCT,7/9/2024,Active
+CUST0778,Port Harcourt,Rivers,6/11/2024,Active
+CUST0779,Ibadan,Oyo,1/11/2024,Active
+CUST0780,Kano,Kano,4/27/2023,Active
+CUST0781,Port Harcourt,Rivers,11/27/2024,Active
+CUST0782,Lagos,Lagos,4/26/2024,Active
+CUST0783,Port Harcourt,Rivers,3/9/2023,Active
+CUST0784,Lagos,Lagos,6/18/2023,Active
+CUST0785,Lagos,Lagos,3/2/2024,Active
+CUST0786,Ibadan,Oyo,10/26/2023,Active
+CUST0787,Ibadan,Oyo,11/2/2024,Active
+CUST0788,Abuja,FCT,8/3/2024,Active
+CUST0789,Lagos,Lagos,2/18/2023,Active
+CUST0790,Abuja,FCT,7/6/2023,Active
+CUST0791,Lagos,Lagos,1/14/2024,Active
+CUST0792,Port Harcourt,Rivers,6/16/2023,Active
+CUST0793,Ibadan,Oyo,11/24/2023,Active
+CUST0794,Kano,Kano,8/10/2024,Active
+CUST0795,Lagos,Lagos,4/30/2023,Active
+CUST0796,Kano,Kano,10/18/2024,Active
+CUST0809,Lagos,Lagos,3/20/2023,Active
+CUST0810,Lagos,Lagos,11/20/2023,Active
+CUST0811,Port Harcourt,Rivers,5/28/2023,Inactive
+CUST0812,Lagos,Lagos,4/15/2023,Active
+CUST0813,Lagos,Lagos,6/28/2024,Active
+CUST0814,Port Harcourt,Rivers,5/15/2023,Active
+CUST0815,Lagos,Lagos,9/3/2024,Active
+CUST0816,Lagos,Lagos,5/26/2023,Active
+CUST0005,Port Harcourt,Rivers,10/28/2023,Active
+CUST0006,Ibadan,Oyo,8/22/2023,Active
+CUST0007,Ibadan,Oyo,1/9/2024,Active
+CUST0008,Lagos,Lagos,9/8/2023,Active
+CUST0009,Lagos,Lagos,2/27/2023,Active
+CUST0010,Port Harcourt,Rivers,11/19/2023,Active
+CUST0011,Abuja,FCT,7/28/2024,Active
+CUST0012,Ibadan,Oyo,5/20/2024,Active
+CUST0013,Ibadan,Oyo,1/30/2024,Active
+CUST0014,Abuja,FCT,7/3/2024,Active
+CUST0817,Lagos,Lagos,3/21/2023,Inactive
+CUST0818,Port Harcourt,Rivers,8/30/2024,Inactive
+CUST0819,Ibadan,Oyo,5/7/2023,Active
+CUST0820,Kano,Kano,10/12/2023,Active
+CUST0821,Abuja,FCT,8/6/2024,Inactive
+CUST0822,Abuja,FCT,7/4/2024,Inactive
+CUST0823,Ibadan,Oyo,8/26/2024,Active
+CUST0824,Lagos,Lagos,4/26/2023,Active
+CUST0825,Lagos,Lagos,10/23/2023,Active
+CUST0826,Lagos,Lagos,11/16/2023,Active
+CUST0827,Lagos,Lagos,5/2/2024,Active
+CUST0734,Abuja,FCT,4/5/2023,Inactive
+CUST0839,Abuja,FCT,8/28/2024,Active
+CUST0840,Port Harcourt,Rivers,1/11/2024,Active
+CUST0841,Lagos,Lagos,1/1/2024,Active
+CUST0842,Kano,Kano,3/9/2023,Active
+CUST0843,Lagos,Lagos,3/8/2024,Active
+CUST0844,Lagos,Lagos,8/7/2024,Active
+CUST0845,Lagos,Lagos,5/29/2024,Active
+CUST0846,Lagos,Lagos,10/12/2024,Active
+CUST0847,Port Harcourt,Rivers,8/10/2024,Active
+CUST0848,Kano,Kano,8/3/2024,Active
+CUST0849,Abuja,FCT,11/4/2023,Active
+CUST0020,Ibadan,Oyo,7/25/2023,Active
+CUST0021,Ibadan,Oyo,9/11/2023,Active
+CUST0022,Lagos,Lagos,10/8/2024,Inactive
+CUST0023,Ibadan,Oyo,5/12/2024,Active
+CUST0024,Port Harcourt,Rivers,2/21/2024,Active
+CUST0025,Kano,Kano,11/20/2024,Active
+CUST0026,Lagos,Lagos,7/14/2023,Active
+CUST0027,Abuja,FCT,7/17/2024,Active
+CUST0028,Ibadan,Oyo,2/15/2024,Active
+CUST0029,Abuja,FCT,3/9/2024,Active
+CUST0030,Lagos,Lagos,3/4/2023,Active
+CUST0031,Lagos,Lagos,6/4/2024,Active
+CUST0032,Lagos,Lagos,9/10/2023,Active
+CUST0033,Kano,Kano,7/29/2023,Active
+CUST0034,Lagos,Lagos,3/16/2023,Inactive
+CUST0035,Ibadan,Oyo,12/24/2023,Active
+CUST0036,Abuja,FCT,10/31/2024,Active
+CUST0037,Ibadan,Oyo,7/20/2024,Active
+CUST0038,Kano,Kano,6/1/2024,Active
+CUST0039,Lagos,Lagos,10/14/2024,Active
+CUST0040,Port Harcourt,Rivers,6/2/2023,Active
+CUST0041,Kano,Kano,2/10/2023,Active
+CUST0042,Kano,Kano,2/21/2024,Active
+CUST0043,Ibadan,Oyo,1/26/2023,Active
+CUST0044,Port Harcourt,Rivers,1/27/2024,Active
+CUST0476,Port Harcourt,Rivers,12/30/2023,Active
+CUST0602,Lagos,Lagos,5/14/2024,Active
+CUST0045,Lagos,Lagos,8/22/2023,Active
+CUST0046,Lagos,Lagos,12/26/2023,Active
+CUST0828,Lagos,Lagos,11/5/2024,Active
+CUST0829,Lagos,Lagos,6/22/2023,Inactive
+CUST0830,Lagos,Lagos,5/26/2024,Active
+CUST0831,Port Harcourt,Rivers,2/14/2024,Active
+CUST0832,Ibadan,Oyo,5/6/2023,Active
+CUST0833,Lagos,Lagos,5/25/2024,Active
+CUST0834,Abuja,FCT,3/20/2023,Active
+CUST0835,Port Harcourt,Rivers,7/9/2024,Active
+CUST0836,Abuja,FCT,4/5/2024,Active
+CUST0837,Abuja,FCT,11/7/2023,Active
+CUST0838,Abuja,FCT,8/5/2024,Active
+CUST0551,Kano,Kano,6/11/2023,Active
+CUST0047,Kano,Kano,9/25/2023,Active
+CUST0048,Lagos,Lagos,9/12/2024,Active
+CUST0049,Abuja,FCT,6/16/2024,Active
+CUST0050,Abuja,FCT,11/4/2023,Active
+CUST0051,Lagos,Lagos,1/24/2024,Active
+CUST0052,Kano,Kano,8/4/2023,Active
+CUST0053,Abuja,FCT,6/23/2023,Active
+CUST0054,Abuja,FCT,8/29/2023,Active
+CUST0055,Port Harcourt,Rivers,3/16/2023,Active
+CUST0056,Lagos,Lagos,1/6/2023,Active
+CUST0057,Port Harcourt,Rivers,2/21/2023,Active
+CUST0058,Abuja,FCT,11/21/2023,Active
+CUST0859,Lagos,Lagos,10/12/2023,Active
+CUST0860,Kano,Kano,1/21/2023,Active
+CUST0861,Lagos,Lagos,9/8/2024,Active
+CUST0862,Lagos,Lagos,11/18/2024,Active
+CUST0863,Kano,Kano,8/30/2023,Active
+CUST0864,Lagos,Lagos,6/18/2024,Active
+CUST0865,Kano,Kano,5/23/2024,Active
+CUST0850,Lagos,Lagos,7/14/2024,Active
+CUST0851,Ibadan,Oyo,6/18/2024,Active
+CUST0852,Lagos,Lagos,6/4/2023,Active
+CUST0853,Port Harcourt,Rivers,2/25/2024,Active
+CUST0854,Lagos,Lagos,7/28/2023,Active
+CUST0855,Port Harcourt,Rivers,9/20/2023,Active
+CUST0856,Kano,Kano,4/27/2023,Active
+CUST0857,Lagos,Lagos,4/20/2024,Active
+CUST0858,Abuja,FCT,7/26/2023,Active
+CUST0001,Kano,Kano,11/23/2024,Active
+CUST0002,Kano,Kano,1/28/2023,Active
+CUST0003,Lagos,Lagos,6/13/2023,Active
+CUST0004,Lagos,Lagos,12/19/2023,Active
+CUST0015,Lagos,Lagos,9/27/2023,Active
+CUST0016,Abuja,FCT,6/6/2023,Active
+CUST0017,Abuja,FCT,1/20/2023,Active
+CUST0018,Ibadan,Oyo,3/22/2023,Active
+CUST0455,Abuja,FCT,3/6/2024,Active
+CUST0797,Port Harcourt,Rivers,4/1/2024,Active
+CUST0798,Ibadan,Oyo,2/27/2023,Active
+CUST0799,Abuja,FCT,12/20/2023,Active
+CUST0800,Ibadan,Oyo,3/1/2024,Active
+CUST0801,Lagos,Lagos,8/24/2024,Active
+CUST0802,Lagos,Lagos,1/20/2024,Active
+CUST0803,Kano,Kano,5/21/2023,Active
+CUST0804,Lagos,Lagos,11/8/2023,Active
+CUST0805,Abuja,FCT,10/13/2024,Active
+CUST0806,Abuja,FCT,3/10/2023,Active
+CUST0807,Kano,Kano,5/3/2023,Active
+CUST0808,Port Harcourt,Rivers,5/19/2023,Active
