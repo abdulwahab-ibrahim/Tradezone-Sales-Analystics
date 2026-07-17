@@ -21,7 +21,19 @@ This project answers the following business questions:
 
 ## 📂 Dataset
 
-The analysis was performed on an e-commerce dataset provided as part of the HNG Internship. Due to privacy and data-sharing considerations, the original dataset is not included in this repository.
+The dataset contains transaction-level sales data collected across multiple trade zones, including:
+
+- Customer ID
+- Age
+- Gender
+- Product Category
+- Product Name
+- Trade Zone
+- Region
+- Quantity Sold
+- Unit Price
+- Sales Amount
+- Order Date
 
 ---
 
@@ -76,7 +88,7 @@ TradeZone-Sales-Analytics
 │
 ├── Dashboard
 │   ├── Dashboard.png
-    └── TradeZone_Dashboard.pbix 
+│   └── TradeZone_Dashboard.pbix 
 │   
 ├── Dataset
 │   ├── customers.csv
